@@ -1,0 +1,11 @@
+/*custom css of jasons page*/
+.jumbotron{
+    height : 450px;
+    color : #ccffff;
+    background-image : url(../images/header2.jpg); 
+    background-size :cover;
+    }
+    
+.thumbnail{
+    background-color : #cccccc;
+    }
